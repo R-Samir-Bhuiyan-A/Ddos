@@ -1,7 +1,9 @@
-echo "Enter server and port (e.g., Server:port):"
+clear
+
+echo "Enter server and port (Server:port)"
 read serverPort
 
-echo "Enter method:"
+echo "Enter method:(ping botjoiner join etc)"
 read method
 
 echo "Enter time in seconds:"
